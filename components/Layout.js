@@ -18,6 +18,10 @@ const Layout = ({ children }) => {
                 integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
                 crossOrigin="anonymous"
             />
+
+<h1 className="nav-link text-dark btn btn-success" style={{ borderRadius: '0px' }}>
+                        <strong> Labs - Arts </strong>
+                    </h1>
             <link rel="stylesheet" href="/static/css/styles.css" />
         </React.Fragment>
     );
@@ -87,4 +91,3 @@ const Layout = ({ children }) => {
 };
 
 export default Layout;
-
