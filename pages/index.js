@@ -82,7 +82,8 @@ const Home = ({ categories }) => {
         <Layout>
             <div className="row">
                 <div className="col-md-12">
-                    <h1 className="font-weight-bold">Browse Tutorials/Courses</h1>
+                    <h1 className="font-weight-bold">Browse our Labs' !</h1>
+                    <h2><strong>Sharing is caring.</strong></h2>
                     <br />
                 </div>
             </div>
